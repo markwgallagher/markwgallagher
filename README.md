@@ -1,58 +1,52 @@
-
----
-
 # Mark W. Gallagher
 
-**Network Operations & Application Performance Engineer**  
-Focused on reliability, observability, and pragmatic automation
+**Senior Infrastructure, Network & Security Engineer**  
+F5 BIG-IP | Network Security | SRE | Hybrid Cloud | PKI | Automation
+
+Orlando, FL &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/markwgallagher/) &nbsp;|&nbsp; [Resume](https://github.com/markwgallagher/markwgallagher.github.io/raw/main/Mark_Gallagher_Resume.pdf)
 
 ---
 
-## About
+15+ years designing, securing, and operating enterprise infrastructure. I specialize in application delivery and traffic engineering on F5 BIG-IP platforms, network security policy, PKI/certificate lifecycle management, and hybrid Azure networking. I also build internal tooling that reduces operational friction and MTTR — including production applications and AI-assisted automation.
 
-I specialize in diagnosing and improving complex networked systems, with experience across enterprise and federal government environments. My work centers on performance, availability, and building small, effective tools that surface operational truth quickly.
-
-I’m particularly interested in roles that blend deep technical analysis with architecture, tooling, and operational decision-making.
+I tend to be the person on the team who reaches for a packet capture when everyone else is still reading logs.
 
 ---
 
-## Featured Work
+## What I Work On
 
-### OK Network
-A lightweight, local network visibility tool that:
-- Discovers hostnames using certificate transparency data
-- Performs RTT and TLS health checks
-- Flags unreachable services and soon-to-expire certificates
+**Application Delivery & Traffic Engineering**  
+F5 BIG-IP LTM, GTM, ASM/AWAF, APM, iRules. Day-to-day service management, fault tolerance design, and L7/TLS troubleshooting. Currently conducting a structured POC evaluating FortiADC against F5 as part of platform roadmap ownership.
 
-Designed to answer the question: *“What’s actually up right now, and how healthy is it?”*
+**Network Security**  
+Juniper SRX and Security Director, Fortinet FortiGate, PCI-aligned segmentation, zero-trust architecture, firewall policy management.
 
-→ **Repository:** https://github.com/markwgallagher/ok-network
+**PKI & Certificate Lifecycle**  
+End-to-end certificate management including rotation automation. Recently led a full CA vendor migration across all services with under 60 days lead time and zero outages.
 
----
+**Hybrid Cloud & Data Center**  
+Azure ExpressRoute, VPN Gateway, VNet design. Juniper QFX EVPN/VXLAN multi-site data center operations.
 
-### Scripts & Utilities
-A curated collection of small automation and diagnostic tools used for:
-- Network and application troubleshooting
-- Repetitive operational tasks
-- Quick data extraction and validation
-
-→ **Repository:** https://github.com/markwgallagher/scripts
+**Automation & Tooling**  
+Python, Bash, Ansible, Node.js. Built a production Node.js application integrating the F5 BIG-IP REST API to enforce least-privilege configuration access — designed from scratch with a small team using AI-assisted development.
 
 ---
 
-## Resume & Links
+## Projects
 
-- **Resume (PDF):** https://github.com/markwgallagher/markwgallagher.github.io/raw/main/Mark_Gallagher_Resume.pdf
-- **LinkedIn:** https://www.linkedin.com/in/markwgallagher/
-- **GitHub:** https://github.com/markwgallagher
+### [ok-network](https://github.com/markwgallagher/ok-network)
+A lightweight local network visibility tool. Discovers hostnames via certificate transparency data, performs RTT and TLS health checks, and flags unreachable services and soon-to-expire certificates. Answers the question: what is actually up right now, and how healthy is it?
 
----
-
-## Notes on Development Workflow
-
-Code samples emphasize clarity, correctness, and maintainability.  
-Where AI-assisted tooling (e.g., GitHub Copilot) is used, its role is documented transparently alongside manual review and validation.
+### [scripts](https://github.com/markwgallagher/scripts)
+Operational automation and diagnostic utilities for network troubleshooting, repetitive tasks, and quick data extraction. Built to solve real problems, not to demonstrate concepts.
 
 ---
 
-*Last updated: 2025*
+## Certifications
+
+F5 Certified Administrator (2024) &nbsp;|&nbsp; Juniper JNCIA-JUNOS (2023) &nbsp;|&nbsp; CWNA-107 (2018)  
+Palo Alto PCNSE (2015) &nbsp;|&nbsp; CCNA R&S (2010) &nbsp;|&nbsp; CompTIA Security+ (2009)
+
+---
+
+*Where AI-assisted tooling is used in this work, its role is documented alongside manual review and validation.*
