@@ -3,7 +3,7 @@
 **Senior Infrastructure, Network & Security Engineer**  
 F5 BIG-IP | Network Security | SRE | Hybrid Cloud | PKI | Automation
 
-Orlando, FL &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/markwgallagher/) &nbsp;|&nbsp; [Resume](https://github.com/markwgallagher/markwgallagher.github.io/raw/main/Mark_Gallagher_ADC-Commercial)
+Orlando, FL &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/markwgallagher/) &nbsp;|&nbsp; [Resume](https://github.com/markwgallagher/markwgallagher.github.io/Mark_Gallagher_ADC-Commercial)
 
 ---
 
